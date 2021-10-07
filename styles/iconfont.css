@@ -11,11 +11,41 @@
   -moz-osx-font-smoothing: grayscale;
   cursor: pointer;
 }
+.icon-linkedin:before {
+  content: "\e60d";
+  position: relative;
+  top: -2px;
+}
+.icon-twitter:before {
+  content: "\e600";
+}
+.icon-weibo:before {
+  content: "\e602";
+}
 .icon-stack-overflow:before {
   content: "\e603";
   font-size: 0.85em;
   position: relative;
   top: -4px;
+}
+.icon-email:before {
+  content: "\e605";
+  position: relative;
+  top: -2px;
+}
+.icon-facebook:before {
+  content: "\e601";
+  font-size: 0.95em;
+  position: relative;
+  top: -2px;
+}
+.icon-github:before {
+  content: "\e606";
+  position: relative;
+  top: -3px;
+}
+.icon-rss:before {
+  content: "\e604";
 }
 .icon-google:before {
   content: "\e609";
