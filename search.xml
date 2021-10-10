@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>MarkDown笔记</title>
+      <link href="/2021/10/10/MarkDown%E7%AC%94%E8%AE%B0/"/>
+      <url>/2021/10/10/MarkDown%E7%AC%94%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="练习md"><a href="#练习md" class="headerlink" title="练习md"></a>练习md</h1><span id="more"></span><p>##二级标题<br><strong>加粗</strong><br><em>斜体</em></p><blockquote><p> 这是引用</p></blockquote><hr><ul><li>无序列表</li></ul><ol><li>有序列表</li></ol><p><a href="https://www.csdn.net/">csdn</a></p><p><img src="https://img2.baidu.com/it/u=527857501,1430196646&fm=26&fmt=auto" alt=" klk "></p><ul><li><input checked="" disabled="" type="checkbox"> 已完成项目</li><li>[] 代办事项</li></ul><table><thead><tr><th>dog</th><th>bird</th><th>cat</th></tr></thead><tbody><tr><td>foo</td><td>foo</td><td>foo</td></tr><tr><td>bar</td><td>bar</td><td>bar</td></tr><tr><td>baz</td><td>baz</td><td>baz</td></tr></tbody></table><p><code>代码引用</code></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">多</span><br><span class="line">段</span><br><span class="line">代</span><br><span class="line">码</span><br></pre></td></tr></table></figure><p>ps:<strong>添加tag一定要空格</strong></p><h3 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h3><p><a href="https://zhuanlan.zhihu.com/p/342282274">资料</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>感冒，难受</title>
       <link href="/2021/10/08/%E6%84%9F%E5%86%92%EF%BC%8C%E9%9A%BE%E5%8F%97/"/>
       <url>/2021/10/08/%E6%84%9F%E5%86%92%EF%BC%8C%E9%9A%BE%E5%8F%97/</url>
