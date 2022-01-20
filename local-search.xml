@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>懒散</title>
+    <link href="/2021/11/08/%E6%87%92%E6%95%A3/"/>
+    <url>/2021/11/08/%E6%87%92%E6%95%A3/</url>
+    
+    <content type="html"><![CDATA[<h1 id="我的最近"><a href="#我的最近" class="headerlink" title="我的最近"></a>我的最近</h1><p>由于考试的缘故，这几周都没怎么更新博客!</p><span id="more"></span><p>怎么说呢，考试的这两周，感觉脑子是处于一种浑浑噩噩的状态的，马原看了一个多礼拜，直到考试前一天才看完一遍。因为游戏一直还是在打的，数电么，之前学的还比较踏实，但后面也没怎么认真听了，但还是老老实实把做过的题都看了一遍。<br>但是到现在，马原老师说我们的大题惨不忍睹，我就觉得可能要挂了，因为选择题我是没有多大把握的。数电么，基本都写出来了，但画图感觉有点问题，有点担心。<br>要考四级了，单词还一个没背，害，我是废物！<br>离散最近更是没听，听不进去，不在状态。<br>希望在后面几周能改变改变，不要再懒下去了，这个月还要体测，加油!</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>日常</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>万圣节小蝙蝠</title>
+    <link href="/2021/10/31/%E4%B8%87%E5%9C%A3%E8%8A%82%E5%B0%8F%E8%9D%99%E8%9D%A0/"/>
+    <url>/2021/10/31/%E4%B8%87%E5%9C%A3%E8%8A%82%E5%B0%8F%E8%9D%99%E8%9D%A0/</url>
+    
+    <content type="html"><![CDATA[<h1 id="万圣节小蝙蝠"><a href="#万圣节小蝙蝠" class="headerlink" title="万圣节小蝙蝠"></a>万圣节小蝙蝠</h1><span id="more"></span><p><img src="https://z3.ax1x.com/2021/10/31/ISJfSO.jpg"></p><p>ps:在hexo上传本地图片失败多次后，最后选择了图床。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>1024</title>
+    <link href="/2021/10/24/1024/"/>
+    <url>/2021/10/24/1024/</url>
+    
+    <content type="html"><![CDATA[<h1 id="1024程序员节日快乐！"><a href="#1024程序员节日快乐！" class="headerlink" title="1024程序员节日快乐！"></a><em>1024程序员节日快乐！</em></h1><span id="more"></span><p><del>无内鬼，来点二次元</del></p><iframe src="//player.bilibili.com/player.html?aid=334119418&bvid=BV1jw411d75B&cid=367552935&page=1" height=600 width=800 scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>日常</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Ement语法</title>
+    <link href="/2021/10/18/Ement%E8%AF%AD%E6%B3%95/"/>
+    <url>/2021/10/18/Ement%E8%AF%AD%E6%B3%95/</url>
+    
+    <content type="html"><![CDATA[<h1 id="用在head中的Ement语句"><a href="#用在head中的Ement语句" class="headerlink" title="用在head中的Ement语句"></a>用在head中的Ement语句</h1><span id="more"></span><ol><li>!或者是html:5按tab键自动生成h5文档结构的结构<figure class="highlight xml"><table><tr><td class="gutter"><div class="code-wrapper"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></div></td><td class="code"><pre><code class="hljs xml"><span class="hljs-meta">&lt;!DOCTYPE <span class="hljs-meta-keyword">html</span>&gt;</span><br><span class="hljs-tag">&lt;<span class="hljs-name">html</span> <span class="hljs-attr">lang</span>=<span class="hljs-string">&quot;en&quot;</span>&gt;</span><br><span class="hljs-tag">&lt;<span class="hljs-name">head</span>&gt;</span><br>    <span class="hljs-tag">&lt;<span class="hljs-name">meta</span> <span class="hljs-attr">charset</span>=<span class="hljs-string">&quot;UTF-8&quot;</span>&gt;</span><br>    <span class="hljs-tag">&lt;<span class="hljs-name">meta</span> <span class="hljs-attr">name</span>=<span class="hljs-string">&quot;viewport&quot;</span> <span class="hljs-attr">content</span>=<span class="hljs-string">&quot;width=device-width, initial-scale=1.0&quot;</span>&gt;</span><br>    <span class="hljs-tag">&lt;<span class="hljs-name">meta</span> <span class="hljs-attr">http-equiv</span>=<span class="hljs-string">&quot;X-UA-Compatible&quot;</span> <span class="hljs-attr">content</span>=<span class="hljs-string">&quot;ie=edge&quot;</span>&gt;</span><br>    <span class="hljs-tag">&lt;<span class="hljs-name">title</span>&gt;</span>Document<span class="hljs-tag">&lt;/<span class="hljs-name">title</span>&gt;</span><br><span class="hljs-tag">&lt;/<span class="hljs-name">head</span>&gt;</span><br><span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span><br>    <br><span class="hljs-tag">&lt;/<span class="hljs-name">body</span>&gt;</span><br><span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span><br></code></pre></td></tr></table></figure></li><li>link:css引入外部css文件<br><code>&lt;link rel=&quot;stylesheet&quot; href=&quot;style.css&quot;&gt;</code></li><li>script:src引入script外部文件<br><code>&lt;script src=&quot;&quot;&gt;&lt;/script&gt;</code><h2 id="用在body中的Ement语句"><a href="#用在body中的Ement语句" class="headerlink" title="用在body中的Ement语句"></a>用在body中的Ement语句</h2></li><li>生成带类样式的标签<table> <thead> <tr> <th>格式</th> <th>举例</th> <th>生成后</th> <th>说明</th> </tr> </thead> <tbody> <tr> <td>标签.类名</td> <td><code> p.info</code></td> <td><code>&lt;p class="info"&gt;&lt;/p&gt;</code></td> <td>---</td> </tr> <tr> <td>--</td> <td><code>div.red</code></td> <td><code>&lt;div class="red"&gt;&lt;/div&gt;</code></td> <td>---</td> </tr> <tr> <td>--</td> <td><code>.red</code></td> <td><code>&lt;div class="red"&gt;&lt;/div&gt;</code></td> <td>div标签是默认标签</td> </tr> </tbody> </table> </li><li>生成带id的标签<table> <thead> <tr> <th>格式</th> <th>举例</th> <th>生成后</th> <th>说明</th> </tr> </thead> <tbody> <tr> <td>标签#id名</td> <td><code> h2#header</code></td> <td><code>&lt;h2 id="headee"&gt;&lt;/h2&gt;</code></td> <td>---</td> </tr> <tr> <td>--</td> <td><code>div#header</code></td> <td><code>&lt;div id="header"&gt;&lt;/div&gt;</code></td> <td>---</td> </tr> <tr> <td>--</td> <td><code>#header</code></td> <td><code>&lt;div id="header"&gt;&lt;/div&gt;</code></td> <td>div标签是默认标签</td> </tr> </tbody> </table> </li><li>生成a标签<table> <thead> <tr> <th>格式</th> <th>举例</th> <th>生成后</th> <th>说明</th> </tr> </thead> <tbody> <tr> <td><code>a</code></td> <td><code>a</code></td> <td><code>&lt;a href=""&gt;&lt;/a&gt;</code></td> <td>---</td> </tr> <tr> <td><code>a:link</code></td> <td><code>a:link</code></td> <td><code>&lt;a href="http://"&gt;&lt;/a&gt;</code></td> <td>会自动加入http://</td> </tr> <tr> <td><code>a:mail</code></td> <td><code>a:mail</code></td> <td><code>&lt;a href="mailto:"&gt;&lt;/a&gt;</code></td> <td>自动生成前往邮箱的格式</td> </tr> </tbody> </table> ### 根据标签中的位置关系生成标签</li><li>生成同级标签，又名兄弟标签<table> <thead> <tr> <th>格式</th> <th>举例</th> <th>生成后</th> <th>说明</th> </tr> </thead> <tbody> <tr> <td>标签1+标签2</td> <td><code>h2+p</code></td> <td><code>&lt;h2&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;</code></td> <td>---</td> </tr> <tr> <td>标签1.类名+标签2.类名</td> <td><code>h2.info+p.header</code></td> <td><code>&lt;h2 class="info"&gt;&lt;/h2&gt;&lt;p class="header"&gt;&lt;/p&gt;</code></td> <td>---</td> </tr> </tbody> </table> </li><li>后代标签，也叫下线标签生成<table> <thead> <tr> <th>格式</th> <th>举例</th> <th>生成后</th> <th>说明</th> </tr> </thead> <tbody> <tr> <td>父类&gt;子类</td> <td><code>ul&gt;li</code></td> <td><code>&lt;ul&gt;&lt;li&gt;&lt;/li&gt;&lt;/ul&gt;</code></td> <td>---</td> </tr> <tr> <td>父类&gt;子类1+子类2</td> <td><code>ul&gt;li+li</code></td> <td><code>&lt;&lt;ul&gt;&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;/li&gt;&lt;/ul&gt;</code></td> <td>---</td> </tr> <tr> <td>父类&gt;子类*2</td> <td><code>ul&gt;li*2</code></td> <td><code>&lt;&lt;ul&gt;&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;/li&gt;&lt;/ul&gt;</code></td> <td>使用*n可以快速创建n个标签</td> </tr> </tbody> </table> </li><li>生成父类标签，也叫上级标签</li></ol><ul><li>可以用在当前已经存在父子关系的标签中</li><li>加入脱字符 ^ 键盘按住shift+6<table> <thead> <tr>  <th>格式</th>  <th>举例</th>  <th>生成后</th>  <th>说明</th> </tr> </thead> <tbody> <tr>  <td>父类1&gt;子类^父类2</td>  <td><code>h2&gt;p^span</code></td>  <td><code>&lt;h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/h2&gt;&lt;span&gt;&lt;/span&gt;</code></td>  <td>注意父类2是父类1的兄弟标签，而子类是他们共同的子类</td> </tr> </tbody> </table> </li></ul><ol start="4"><li>生成标签的时候同时创建内部的文本<br>这里用到的符号为{}  <code>a&#123;helloworld&#125; &lt;a href=&quot;&quot;&gt;helloworld&lt;/a&gt;</code></li><li>生成标签时候加入属性<table> <thead> <tr> <th>格式</th> <th>举例</th> <th>生成后</th> <th>说明</th> </tr> </thead> <tbody> <tr> <td>标签名[属性名="属性值]</td> <td><code>p[title="helloworld"]</code></td> <td><code>&lt;p title="helloworld"&gt;&lt;/p&gt;</code></td> <td>---</td> </tr> <tr> <td>标签名[属性名=“属性值”]{文字}</td> <td><code>a[href="http://www.baidu.com"]&#123;百度&#125;</code></td> <td><code>&lt;a href="http://www.baidu.com"&gt;百度&lt;/a&gt;</code></td> <td>---</td> </tr> </tbody> </table> </li><li>重复生成功能<table> <thead> <tr> <th>格式</th> <th>举例</th> <th>生成后</th> <th>说明</th> </tr> </thead> <tbody> <tr> <td>标签名*num</td> <td><code>li*2</code></td> <td><code>&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;/li&gt;</code></td> <td>表示生成num个标签名</td> </tr> </tbody> </table> <figure class="highlight dust"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><code class="hljs dust"><span class="xml">ement语法：</span><br><span class="xml">ul.list&gt;li*8.info&gt;a[href=&quot;http://www.baidu.com&quot;]</span><span class="hljs-template-variable">&#123;导航1&#125;</span><span class="xml"></span><br><span class="xml">h5语法：</span><br><span class="xml"><span class="hljs-tag">&lt;<span class="hljs-name">ul</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;list&quot;</span>&gt;</span></span><br><span class="xml">        <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;info&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;http://www.baidu.com&quot;</span>&gt;</span>导航<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span></span><br><span class="xml">        <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;info&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;http://www.baidu.com&quot;</span>&gt;</span>导航<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span></span><br><span class="xml">        <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;info&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;http://www.baidu.com&quot;</span>&gt;</span>导航<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span></span><br><span class="xml">        <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;info&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;http://www.baidu.com&quot;</span>&gt;</span>导航<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span></span><br><span class="xml">        <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;info&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;http://www.baidu.com&quot;</span>&gt;</span>导航<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span></span><br><span class="xml">        <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;info&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;http://www.baidu.com&quot;</span>&gt;</span>导航<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span></span><br><span class="xml">        <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;info&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;http://www.baidu.com&quot;</span>&gt;</span>导航<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span></span><br><span class="xml">        <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;info&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;http://www.baidu.com&quot;</span>&gt;</span>导航<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span></span><br><span class="xml">    <span class="hljs-tag">&lt;/<span class="hljs-name">ul</span>&gt;</span></span><br></code></pre></td></tr></table></figure></li><li>给标签自动添加序号和排序<figure class="highlight dust"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><code class="hljs dust"><span class="xml">ul.list&gt;li*8.info&gt;a[href=&quot;http://www.baidu.com&quot;]</span><span class="hljs-template-variable">&#123;导航$&#125;</span><span class="xml"></span><br><span class="xml">    <span class="hljs-tag">&lt;<span class="hljs-name">ul</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;list&quot;</span>&gt;</span></span><br><span class="xml">        <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;info&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;http://www.baidu.com&quot;</span>&gt;</span>导航1<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span></span><br><span class="xml">        <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;info&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;http://www.baidu.com&quot;</span>&gt;</span>导航2<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span></span><br><span class="xml">        <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;info&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;http://www.baidu.com&quot;</span>&gt;</span>导航3<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span></span><br><span class="xml">        <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;info&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;http://www.baidu.com&quot;</span>&gt;</span>导航4<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span></span><br><span class="xml">        <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;info&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;http://www.baidu.com&quot;</span>&gt;</span>导航5<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span></span><br><span class="xml">        <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;info&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;http://www.baidu.com&quot;</span>&gt;</span>导航6<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span></span><br><span class="xml">        <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;info&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;http://www.baidu.com&quot;</span>&gt;</span>导航7<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span></span><br><span class="xml">        <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;info&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;http://www.baidu.com&quot;</span>&gt;</span>导航8<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span></span><br><span class="xml">    <span class="hljs-tag">&lt;/<span class="hljs-name">ul</span>&gt;</span></span><br></code></pre></td></tr></table></figure></li></ol><ul><li>使用@符可以规定排序<figure class="highlight pgsql"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><code class="hljs pgsql">ul.list&gt;li*<span class="hljs-number">8.</span><span class="hljs-keyword">info</span>&gt;a[href=&quot;http://www.baidu.com&quot;]&#123;导航$$<span class="xml">@100&#125;</span><br><span class="xml"></span><br><span class="xml">    <span class="hljs-tag">&lt;<span class="hljs-name">ul</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;list&quot;</span>&gt;</span></span><br><span class="xml">        <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;info&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;http://www.baidu.com&quot;</span>&gt;</span>导航100<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span></span><br><span class="xml">        <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;info&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;http://www.baidu.com&quot;</span>&gt;</span>导航101<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span></span><br><span class="xml">        <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;info&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;http://www.baidu.com&quot;</span>&gt;</span>导航102<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span></span><br><span class="xml">        <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;info&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;http://www.baidu.com&quot;</span>&gt;</span>导航103<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span></span><br><span class="xml">        <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;info&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;http://www.baidu.com&quot;</span>&gt;</span>导航104<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span></span><br><span class="xml">        <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;info&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;http://www.baidu.com&quot;</span>&gt;</span>导航105<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span></span><br><span class="xml">        <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;info&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;http://www.baidu.com&quot;</span>&gt;</span>导航106<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span></span><br><span class="xml">        <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;info&quot;</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;http://www.baidu.com&quot;</span>&gt;</span>导航107<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span></span><br><span class="xml">    <span class="hljs-tag">&lt;/<span class="hljs-name">ul</span>&gt;</span></span><br></code></pre></td></tr></table></figure></li></ul><h4 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h4><p><a href="https://www.cnblogs.com/feixiablog/p/9190793.html">https://www.cnblogs.com/feixiablog/p/9190793.html</a><br><a href="https://img-blog.csdnimg.cn/20210513184430739.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Njc1ODk4OA==,size_16,color_FFFFFF,t_70">https://img-blog.csdnimg.cn/20210513184430739.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Njc1ODk4OA==,size_16,color_FFFFFF,t_70</a></p><h5 id="Music"><a href="#Music" class="headerlink" title="Music"></a>Music</h5><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1440695343&auto=1&height=66"></iframe>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Web前端开发</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>学习HTML5与CSS3</title>
+    <link href="/2021/10/13/%E5%AD%A6%E4%B9%A0HTML5%E4%B8%8ECSS3/"/>
+    <url>/2021/10/13/%E5%AD%A6%E4%B9%A0HTML5%E4%B8%8ECSS3/</url>
+    
+    <content type="html"><![CDATA[<h1 id="学习HTML5与CSS3"><a href="#学习HTML5与CSS3" class="headerlink" title="学习HTML5与CSS3"></a>学习HTML5与CSS3</h1><p>这个学期开设了UI设计课程，学了已经有7周了，写一些感想。</p><span id="more"></span><p>虽然这个课我都没怎么听，但每周的实验课动手，还是挺有意思的，机房的电脑属实是拉，已经跟不上时代了（苦笑），所以我选择带电脑去，也用的舒服。<br>做一个网站其实挺有意思的，就和折腾手机美化一样——谁不想要一个炫酷的主题呢？这两天没更新博客，一是因为懒，二则是刷了一下小甲鱼的视频，温习了一下学习的内容。看完视频只觉的舒畅，就如做题一般，帮你把知识点理顺。<br>理解这些其实不难，就一些标签和选择器罢了，难的是把这些整合起来，做出想要的效果，还需要多加练习，熟练手册。<br><del>还没有上手什么项目，以后碰到问题解决后应该会继续更新这个tag，作为记录.</del><br>ps:在上传的过程中又发现一个小问题，markdown标题要#空格，害，我就说之前的几篇不对劲。</p><hr><hr><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1367333218&auto=1&height=66"></iframe><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><p><a href="https://man.ilovefishc.com/">https://man.ilovefishc.com/</a><br><a href="https://www.bilibili.com/video/BV1QW411N762?p=47&amp;share_source=copy_web">https://www.bilibili.com/video/BV1QW411N762?p=47&amp;share_source=copy_web</a></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Web前端开发</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>MarkDown笔记</title>
+    <link href="/2021/10/10/MarkDown%E7%AC%94%E8%AE%B0/"/>
+    <url>/2021/10/10/MarkDown%E7%AC%94%E8%AE%B0/</url>
+    
+    <content type="html"><![CDATA[<h1 id="练习md"><a href="#练习md" class="headerlink" title="练习md"></a>练习md</h1><span id="more"></span><p>##二级标题<br><strong>加粗</strong><br><em>斜体</em></p><blockquote><p> 这是引用</p></blockquote><hr><ul><li>无序列表</li></ul><ol><li>有序列表</li></ol><p><a href="https://www.csdn.net/">csdn</a></p><p><img src="https://img2.baidu.com/it/u=527857501,1430196646&fm=26&fmt=auto" alt=" klk "></p><ul><li><input checked="" disabled="" type="checkbox"> 已完成项目</li><li>[] 代办事项</li></ul><table><thead><tr><th>dog</th><th>bird</th><th>cat</th></tr></thead><tbody><tr><td>foo</td><td>foo</td><td>foo</td></tr><tr><td>bar</td><td>bar</td><td>bar</td></tr><tr><td>baz</td><td>baz</td><td>baz</td></tr></tbody></table><p><code>代码引用</code></p><figure class="highlight"><table><tr><td class="gutter"><div class="code-wrapper"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></div></td><td class="code"><pre><code class="hljs">多<br>段<br>代<br>码<br></code></pre></td></tr></table></figure><p>ps:<strong>添加tag一定要空格</strong></p><h3 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h3><p><a href="https://zhuanlan.zhihu.com/p/342282274">资料</a></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>笔记</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>感冒，难受</title>
+    <link href="/2021/10/08/%E6%84%9F%E5%86%92%EF%BC%8C%E9%9A%BE%E5%8F%97/"/>
+    <url>/2021/10/08/%E6%84%9F%E5%86%92%EF%BC%8C%E9%9A%BE%E5%8F%97/</url>
+    
+    <content type="html"><![CDATA[<h1 id="啊啊啊，感冒了，鼻子好难受"><a href="#啊啊啊，感冒了，鼻子好难受" class="headerlink" title="啊啊啊，感冒了，鼻子好难受"></a>啊啊啊，感冒了，鼻子好难受</h1><p>听首歌吧！</p><span id="more"></span><iframe src="//player.bilibili.com/player.html?aid=459570928&bvid=BV195411A7Be&cid=307918442&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"height=600 width=800> </iframe>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>日常</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>博客美化</title>
+    <link href="/2021/10/07/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96/"/>
+    <url>/2021/10/07/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96/</url>
+    
+    <content type="html"><![CDATA[<h1 id="关于博客优化"><a href="#关于博客优化" class="headerlink" title="关于博客优化"></a>关于博客优化</h1><p>昨晚热的睡不着，今天7点钟起来，就顺手完善了一下博客。</p><span id="more"></span><p>折腾了两个小时，其实也就解决了两个问题：一个是博客界面的about标签，之前一直显示<code>Cannot get /about/</code>，Google了很久都没找到解决方法，最后换了种方法搜索，在知乎上找到了结果；另一个问题就是主界面的社交栏图标，代码很简单，去阿里的图库中新建项目，下载文件后自动生成代码，不过找引用图标的文件花了不少时间，应该直接在作者的Github直接搜索。</p><p>##参考资料</p><p><a href="https://zhuanlan.zhihu.com/p/69211731">https://zhuanlan.zhihu.com/p/69211731</a><br><a href="https://www.iconfont.cn/manage/index?manage_type=myprojects&amp;projectId=2850746">https://www.iconfont.cn/manage/index?manage_type=myprojects&amp;projectId=2850746</a></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Hexo</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>我的第一篇博客</title>
+    <link href="/2021/10/06/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <url>/2021/10/06/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>这是我第一次搭建博客，过程中出了不少的问题，因为找的教程很多都是基于windows上的解说，重来了大概三次左右，没办法，因为是个小白，啥也不懂。</p> <span id="more"></span><p>讲讲我遇到的几个问题吧：第一是Github上的部署，创建本地网页其实不难，几个命令的事情，因为本人之前没有接触过Git,所以当我deploy的时候，显示Github仓库无法访问。利用ssh命令后将生成的密钥导入Github,问题解决。更换主题，将主题修改成butterfly的过程中，页面根本无法正常渲染，只有一行字：extends includes/layout.pug block content include ./includes/mixins/post-ui.pug #recent-posts.recent-posts +postUI include includes/pagination.pug 按照方法安装<code>npm install hexo-renderer-pug hexo-renderer-stylus --save</code>,问题解决。 </p><p>不管怎样，总算是迈出了第一步，接下来我会继续努力。<br>PS：上传这篇博客时，运行hexo server时候总是报错Cannot read property ‘offset’ of null。最后发现是因为手贱把_config.yml中的时区timezone改成了UTF+8,欲哭无泪，浪费了一个小时找错，解决办法就是把timezone改成 Asia/Shanghai 就好了。<br>##参考资料</p><p><a href="https://www.youtube.com/watch?v=erKYtw4Rfhk">https://www.youtube.com/watch?v=erKYtw4Rfhk</a><br><a href="https://sphard.com/ebooks/hexo-next-2/">https://sphard.com/ebooks/hexo-next-2/</a></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Hexo</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
